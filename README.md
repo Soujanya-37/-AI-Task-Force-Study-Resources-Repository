@@ -130,10 +130,16 @@ AI-Task-Force-Study-Resources/
 ## 🔗 Subject-wise NotebookLM Links
 
 ### 1. Software Engineering & Project Management (SEPM)
+
 Module 1:
+
 Module 2:
+
+
 Module 3:
+
 Module 4:
+
 Module 5:
 ### 2. Computer Networks (CN)
 Module 1:
