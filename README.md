@@ -64,58 +64,22 @@ Minimal, presentation-ready slides covering each module.
 
 This repository currently includes resources for:
 
-Software Engineering & Project Management (SEPM)
+1. Software Engineering & Project Management (SEPM)
 
-Computer Networks (CN)
+2. Computer Networks (CN)
 
-Research Methodology & IPR (RM)
+3. Research Methodology & IPR (RM)
 
-Theory of Computation (TC)
+4. Theory of Computation (TC)
 
-Artificial Intelligence (AI)
+5. Artificial Intelligence (AI)
 
 Each subject includes:
+
 ✔ Module-wise folders
+
 ✔ 5 NotebookLM resources per module
 
-## 📁 Repository Structure
-
-AI-Task-Force-Study-Resources/
-│
-├── Software-Engineering-and-Project-Management/
-│   ├── Module-1/
-│   ├── Module-2/
-│   ├── Module-3/
-│   ├── Module-4/
-│   └── Module-5/
-│
-├── Computer-Networks/
-│   ├── Module-1/
-│   ├── Module-2/
-│   ├── Module-3/
-│   ├── Module-4/
-│   └── Module-5/
-│
-├── Research-Methodology-and-IPR/
-│   ├── Module-1/
-│   ├── Module-2/
-│   ├── Module-3/
-│   ├── Module-4/
-│   └── Module-5/
-│
-├── Theory-of-Computation/
-│   ├── Module-1/
-│   ├── Module-2/
-│   ├── Module-3/
-│   ├── Module-4/
-│   └── Module-5/
-│
-└── Artificial-Intelligence/
-    ├── Module-1/
-    ├── Module-2/
-    ├── Module-3/
-    ├── Module-4/
-    └── Module-5/
 
 ## 🔗 Subject-wise NotebookLM Links
 
