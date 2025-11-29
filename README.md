@@ -79,37 +79,38 @@ Each subject includes:
 ✔ 5 NotebookLM resources per module
 
 ## 📁 Repository Structure
+
 AI-Task-Force-Study-Resources/
 │
-** ├── Software-Engineering-and-Project-Management/
+├── Software-Engineering-and-Project-Management/
 │   ├── Module-1/
 │   ├── Module-2/
 │   ├── Module-3/
 │   ├── Module-4/
 │   └── Module-5/
 │
-** ├── Computer-Networks/
+├── Computer-Networks/
 │   ├── Module-1/
 │   ├── Module-2/
 │   ├── Module-3/
 │   ├── Module-4/
 │   └── Module-5/
 │
-** ├── Research-Methodology-and-IPR/
+├── Research-Methodology-and-IPR/
 │   ├── Module-1/
 │   ├── Module-2/
 │   ├── Module-3/
 │   ├── Module-4/
 │   └── Module-5/
 │
-** ├── Theory-of-Computation/
+├── Theory-of-Computation/
 │   ├── Module-1/
 │   ├── Module-2/
 │   ├── Module-3/
 │   ├── Module-4/
 │   └── Module-5/
 │
-** └── Artificial-Intelligence/
+└── Artificial-Intelligence/
     ├── Module-1/
     ├── Module-2/
     ├── Module-3/
@@ -120,7 +121,7 @@ AI-Task-Force-Study-Resources/
 
 ### 1. Software Engineering & Project Management (SE)
 
-Module 1:
+Module 1: https://notebooklm.google.com/notebook/32b00422-050f-4093-bc19-bc8dac22dafb
 
 Module 2:
 
@@ -132,7 +133,7 @@ Module 5:
 
 ### 2. Computer Networks (CN)
 
-Module 1:
+Module 1: https://notebooklm.google.com/notebook/6c601aba-6f99-45a1-b9d1-7dc3043c44fd
 
 Module 2:
 
@@ -143,7 +144,8 @@ Module 4:
 Module 5:
 
 ### 3. Research Methodology & IPR (RM)
-Module 1:
+
+Module 1: https://notebooklm.google.com/notebook/e2273f35-93b0-4b17-a741-4d685d11f4ab
 
 Module 2:
 
