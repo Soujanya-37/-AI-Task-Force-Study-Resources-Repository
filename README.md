@@ -5,69 +5,58 @@ This repository contains Mind Maps, Flashcards, Infographics, Presentations, Qui
 
 These resources are organized module-wise and can be used for:
 
-** Exam preparation
+* Exam preparation
 
-** Quick revision
+* Quick revision
 
-** Concept clarity
+* Concept clarity
 
-** Presentations & assignments
+* Presentations & assignments
 
 ## 🚀 About the AI Task Force
 
 The AI Task Force is a student-driven initiative aimed at enhancing learning using modern AI tools.
 Our mission is to:
 
-** Transform lengthy PDFs into meaningful, easy-to-understand formats
+1. Transform lengthy PDFs into meaningful, easy-to-understand formats
 
-** Reduce student workload with digestible summaries
+2. Reduce student workload with digestible summaries
 
-** Leverage AI to improve academic performance
+3. Leverage AI to improve academic performance
 
-** Provide visual, structured, accessible study resources
+4. Provide visual, structured, accessible study resources
 
-**  Help VTU students learn smarter, not harder
+5. Help VTU students learn smarter, not harder
 
-** This repository serves classmates, juniors, and anyone preparing for VTU B.E modules.
+6. This repository serves classmates, juniors, and anyone preparing for VTU B.E modules.
 
 ## 🤖 About NotebookLM
 
-NotebookLM is an AI research assistant by Google that helps convert study materials into:
-
-🧠 Mind Maps
-
-🗂 Flashcards
-
-📝 Summaries & Notes
-
-📊 Infographics
-
-🎞 PPT Slide Decks
-
-❓ Quizzes
+NotebookLM is an AI research assistant by Google that helps convert study materials into: Mind Maps, Flashcards, Summaries & Notes, Infographics, PPT Slide Decks
+and Quizzes
 
 It extracts key insights, organizes information, visualizes topics, and helps in fast revision.
 All resources here are generated or refined using NotebookLM for maximum clarity.
 
 ## 📂 Repository Contents
-1. 🧠 Mind Maps
+🧠 Mind Maps
 
 Hierarchical diagrams that break down each module into clean, structured concepts.
 Great for quick revision.
 
-2. 🗂 Flashcards
+🗂 Flashcards
 
 Q/A style memory boosters for fast retention.
 
-3. 📊 Infographics
+📊 Infographics
 
 Simplified diagrams representing processes, definitions, and key flows.
 
-4. 📖 Summaries & Notes
+📖 Summaries & Notes
 
 Concise explanations rewritten for clarity and understanding.
 
-5. 🎞 PPT Slide Decks
+🎞 PPT Slide Decks
 
 Minimal, presentation-ready slides covering each module.
 
@@ -129,49 +118,72 @@ AI-Task-Force-Study-Resources/
 
 ## 🔗 Subject-wise NotebookLM Links
 
-### 1. Software Engineering & Project Management (SEPM)
+### 1. Software Engineering & Project Management (SE)
 
 Module 1:
 
 Module 2:
-
 
 Module 3:
 
 Module 4:
 
 Module 5:
+
 ### 2. Computer Networks (CN)
+
 Module 1:
+
 Module 2:
+
 Module 3:
+
 Module 4:
+
 Module 5:
+
 ### 3. Research Methodology & IPR (RM)
 Module 1:
+
 Module 2:
+
 Module 3:
+
 Module 4:
+
 Module 5:
+
 ### 4. Theory of Computation (TC)
+
 Module 1:
+
 Module 2:
+
 Module 3:
+
 Module 4:
+
 Module 5:
+
 ### 5. Artificial Intelligence (AI)
+
 Module 1:
+
 Module 2:
+
 Module 3:
+
 Module 4:
+
 Module 5:
+
 ## 📥 How to Use
 
-Select your subject
+1.Select your subject
 
-Open the module
+2.Open the module
 
-Choose the resource you need:
+3.Choose the resource you need:
 
 Mindmap
 
@@ -183,7 +195,7 @@ PPT
 
 Infographic/Quiz
 
-Revise, learn, or present effortlessly ✔
+4.Revise, learn, or present effortlessly 
 
 ## 👥 Contributors & Developers
 
