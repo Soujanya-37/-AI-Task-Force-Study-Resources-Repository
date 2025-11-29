@@ -18,17 +18,17 @@ These resources are organized module-wise and can be used for:
 The AI Task Force is a student-driven initiative aimed at enhancing learning using modern AI tools.
 Our mission is to:
 
-Transform lengthy PDFs into meaningful, easy-to-understand formats
+** Transform lengthy PDFs into meaningful, easy-to-understand formats
 
-Reduce student workload with digestible summaries
+** Reduce student workload with digestible summaries
 
-Leverage AI to improve academic performance
+** Leverage AI to improve academic performance
 
-Provide visual, structured, accessible study resources
+** Provide visual, structured, accessible study resources
 
-Help VTU students learn smarter, not harder
+**  Help VTU students learn smarter, not harder
 
-This repository serves classmates, juniors, and anyone preparing for VTU B.E modules.
+** This repository serves classmates, juniors, and anyone preparing for VTU B.E modules.
 
 ## 🤖 About NotebookLM
 
@@ -92,35 +92,35 @@ Each subject includes:
 ## 📁 Repository Structure
 AI-Task-Force-Study-Resources/
 │
-├── Software-Engineering-and-Project-Management/
+** ├── Software-Engineering-and-Project-Management/
 │   ├── Module-1/
 │   ├── Module-2/
 │   ├── Module-3/
 │   ├── Module-4/
 │   └── Module-5/
 │
-├── Computer-Networks/
+** ├── Computer-Networks/
 │   ├── Module-1/
 │   ├── Module-2/
 │   ├── Module-3/
 │   ├── Module-4/
 │   └── Module-5/
 │
-├── Research-Methodology-and-IPR/
+** ├── Research-Methodology-and-IPR/
 │   ├── Module-1/
 │   ├── Module-2/
 │   ├── Module-3/
 │   ├── Module-4/
 │   └── Module-5/
 │
-├── Theory-of-Computation/
+** ├── Theory-of-Computation/
 │   ├── Module-1/
 │   ├── Module-2/
 │   ├── Module-3/
 │   ├── Module-4/
 │   └── Module-5/
 │
-└── Artificial-Intelligence/
+** └── Artificial-Intelligence/
     ├── Module-1/
     ├── Module-2/
     ├── Module-3/
