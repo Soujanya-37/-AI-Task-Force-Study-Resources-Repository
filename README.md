@@ -89,11 +89,11 @@ Module 1: https://notebooklm.google.com/notebook/32b00422-050f-4093-bc19-bc8dac2
 
 Module 2:
 
-Module 3:
+Module 3: https://notebooklm.google.com/notebook/fcd9bd36-3a0f-446d-b7de-cb5f1810a55b
 
-Module 4:
+Module 4: https://notebooklm.google.com/notebook/6e5e8956-bf78-4e98-ae6f-427ced8b1260
 
-Module 5:
+Module 5: https://notebooklm.google.com/notebook/fcfb544f-cf14-4d21-9fc2-e466d6362dc6
 
 ### 2. Computer Networks (CN)
 
