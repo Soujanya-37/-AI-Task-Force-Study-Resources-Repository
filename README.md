@@ -5,13 +5,13 @@ This repository contains Mind Maps, Flashcards, Infographics, Presentations, Qui
 
 These resources are organized module-wise and can be used for:
 
-* Exam preparation
+- Exam preparation
 
-* Quick revision
+- Quick revision
 
-* Concept clarity
+- Concept clarity
 
-* Presentations & assignments
+- Presentations & assignments
 
 ## 🚀 About the AI Task Force
 
@@ -39,6 +39,7 @@ It extracts key insights, organizes information, visualizes topics, and helps in
 All resources here are generated or refined using NotebookLM for maximum clarity.
 
 ## 📂 Repository Contents
+
 🧠 Mind Maps
 
 Hierarchical diagrams that break down each module into clean, structured concepts.
@@ -80,14 +81,13 @@ Each subject includes:
 
 ✔ 5 NotebookLM resources per module
 
-
 ## 🔗 Subject-wise NotebookLM Links
 
 ### 1. Software Engineering & Project Management (SE)
 
 Module 1: https://notebooklm.google.com/notebook/32b00422-050f-4093-bc19-bc8dac22dafb
 
-Module 2:
+Module 2: https://notebooklm.google.com/notebook/9128e229-8320-4eea-9916-087293b1b7c9
 
 Module 3: https://notebooklm.google.com/notebook/fcd9bd36-3a0f-446d-b7de-cb5f1810a55b
 
@@ -161,13 +161,13 @@ PPT
 
 Infographic/Quiz
 
-4.Revise, learn, or present effortlessly 
+4.Revise, learn, or present effortlessly
 
 ## 👥 Contributors & Developers
 
 This repository is collaboratively maintained by the AI Task Force – CSD 5th Sem:
 
-*Team Members*
+_Team Members_
 
 Soujanya Shanbhag
 
