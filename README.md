@@ -99,13 +99,13 @@ Module 5: https://notebooklm.google.com/notebook/fcfb544f-cf14-4d21-9fc2-e466d63
 
 Module 1: https://notebooklm.google.com/notebook/6c601aba-6f99-45a1-b9d1-7dc3043c44fd
 
-Module 2:
+Module 2: https://notebooklm.google.com/notebook/fc68a280-48b9-45f1-ac51-cb3d0b8f0fa5
 
-Module 3:
+Module 3: https://notebooklm.google.com/notebook/b27d3614-a2ff-4aa4-bebc-123df5a83c53
 
-Module 4:
+Module 4: https://notebooklm.google.com/notebook/16e3cecf-7e72-48be-9708-774939012bf5
 
-Module 5:
+Module 5: https://notebooklm.google.com/notebook/23679c97-fd44-4b22-a846-b864735e7432
 
 ### 3. Research Methodology & IPR (RM)
 
