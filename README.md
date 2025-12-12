@@ -121,9 +121,9 @@ Module 5:
 
 ### 4. Theory of Computation (TC)
 
-Module 1:
+Module 1:https://notebooklm.google.com/notebook/8a586634-f92f-4eb9-b937-22c612b4dbab
 
-Module 2:
+Module 2:https://notebooklm.google.com/notebook/23602d04-0483-45e0-871a-b649c29943b0
 
 Module 3:
 
