@@ -133,15 +133,15 @@ Module 5: https://notebooklm.google.com/notebook/318bd3f7-62c2-4cb7-b5c4-0d9bbf2
 
 ### 5. Artificial Intelligence (AI)
 
-Module 1:
+Module 1: https://notebooklm.google.com/notebook/57950f5a-287b-445c-ab0d-21fc35130da9
 
-Module 2:
+Module 2: https://notebooklm.google.com/notebook/7692b30e-0df1-4edc-9776-c651e139980b
 
-Module 3:
+Module 3: https://notebooklm.google.com/notebook/6a30bda6-60d2-4a84-b5fc-650d631f2019
 
-Module 4:
+Module 4: https://notebooklm.google.com/notebook/b59aaa9f-e164-457a-b80b-3e5812a5c754
 
-Module 5:
+Module 5: https://notebooklm.google.com/notebook/5c381174-9d5d-4508-88e1-74c323883798
 
 ## 📥 How to Use
 
