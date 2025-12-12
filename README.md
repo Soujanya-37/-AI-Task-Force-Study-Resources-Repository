@@ -127,9 +127,9 @@ Module 2:
 
 Module 3:
 
-Module 4:
+Module 4: https://notebooklm.google.com/notebook/e34dfe82-577f-416d-a773-d5630ba07802
 
-Module 5:
+Module 5: https://notebooklm.google.com/notebook/318bd3f7-62c2-4cb7-b5c4-0d9bbf2c6f40
 
 ### 5. Artificial Intelligence (AI)
 
