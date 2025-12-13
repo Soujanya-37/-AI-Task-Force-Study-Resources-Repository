@@ -111,13 +111,13 @@ Module 5: https://notebooklm.google.com/notebook/23679c97-fd44-4b22-a846-b864735
 
 Module 1: https://notebooklm.google.com/notebook/e2273f35-93b0-4b17-a741-4d685d11f4ab
 
-Module 2:
+Module 2: https://notebooklm.google.com/notebook/9e1210df-c2f1-462f-a3e4-8e3df8257351
 
-Module 3:
+Module 3: https://notebooklm.google.com/notebook/e3d6443f-9e8a-42cd-9733-ddb18634410b
 
-Module 4:
+Module 4: https://notebooklm.google.com/notebook/8a39f9e3-f020-447f-9526-56ffa89f09df
 
-Module 5:
+Module 5: https://notebooklm.google.com/notebook/6de92912-498d-483c-aff8-4ea3f8cc5de5
 
 ### 4. Theory of Computation (TC)
 
